@@ -1,1 +1,1 @@
-# visiontv-demo
+VisionTV demo playlist for app testing
